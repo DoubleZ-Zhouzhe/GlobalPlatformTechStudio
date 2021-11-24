@@ -8,7 +8,7 @@
 * Choose ECMAScript [ECMA_262] as the scripting language, which is Javascript, refer to the "GlobalPlatform Systems Profile and Scripting Specifications v1.1" specification；
 * GPTS is designed with a focus on light weight and convenient use. It does not require installation and can be used directly after downloading, and it also helps provide online version update services.
 
-![image](https://user-images.githubusercontent.com/66411758/143266849-7d396df9-7786-499e-8e9e-95a9388a626a.png)
+![image](https://user-images.githubusercontent.com/66411758/143268088-cf4a2821-58b5-471a-a4e4-9c1651259574.png)
 
 ## What can be done
 
@@ -18,7 +18,7 @@
 * Use GP card Shell command to operate IC card；
 * HCE debugging for Android。
 
-![image](https://user-images.githubusercontent.com/66411758/143266723-9e51bbf5-e44f-4938-b478-082ced27655d.png)
+![image](https://user-images.githubusercontent.com/66411758/143268590-85bd3b6f-8ec7-4cdc-ae57-17596e9f71e4.png)
 
 ## Possible external equipment (not necessary)
 
@@ -27,7 +27,7 @@
 * Android phones that support OMA；
 * iPhone mobile phone.
 
-![image](https://user-images.githubusercontent.com/66411758/143266669-c53fe783-63db-4674-ad0b-98e05ca3f47b.png)
+![image](https://user-images.githubusercontent.com/66411758/143268142-94311e9f-92d1-419c-be34-3f8026648926.png)
 
 ### Note：Not limited to the above equipment.
 
