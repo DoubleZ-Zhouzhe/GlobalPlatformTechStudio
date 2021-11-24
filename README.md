@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/66411758/143267176-c5d722a6-3959-4791-9507-8ccd8a00deaa.png)
-
 ## **About Global Platform Tech Studio**
 
 * Global Platform Tech Studio (hereinafter referred to as GPTS) is a tool platform for the visual management of security domains, secure channels, content, and keys of GlobalPlatform smart IC cards (hereinafter referred to as GP cards), as well as general scripting and command processing；
