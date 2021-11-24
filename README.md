@@ -34,6 +34,14 @@
 
 * 免费使用
 
+## 最新版本
 
+### [v1.](https://www.zchrit.com/dwn/GlobalPlatformCardStudiov2.1)2
+
+**更新日期：**2017.08.1
+
+**更新说明：**修改GP系统脚本的扩展的一系列bug，Grypto、GPScp03、File等类。
+
+[下载](http://guide.gpts.zchrit.com/dw/GPTS/GPTSv1.2.zip)
 
 
