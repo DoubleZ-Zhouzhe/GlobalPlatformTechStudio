@@ -34,7 +34,6 @@
 
 * 免费使用
 
-## 功能结构![](/assets/Product Introduction.jpg)
 
 
 
