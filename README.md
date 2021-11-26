@@ -38,7 +38,7 @@
 
 ## Last Version
 
-### [v1.](https://www.zchrit.com/dwn/GlobalPlatformCardStudiov2.1)2
+### v1.2
 
 **Update Date: **2017.08.1
 
