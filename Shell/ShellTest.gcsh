@@ -1,0 +1,23 @@
+#Reset
+/atr
+
+#Select CM
+select
+
+#Init update
+init-update
+
+#Exte Auth
+ext-auth
+
+#Get Data
+/send 80CA006600
+
+#Get Status
+/send 80F21002024F00
+
+#Get Status
+/send 80F24002024F00
+
+#Get Status
+/send 80F28002024F00

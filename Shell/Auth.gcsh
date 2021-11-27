@@ -1,0 +1,11 @@
+#Reset
+/atr
+
+#Select CM
+select
+
+#Init update
+init-update
+
+#Exte Auth
+ext-auth

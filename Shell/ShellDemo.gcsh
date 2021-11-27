@@ -1,0 +1,29 @@
+#Set Key
+set-key 1/1/DES-ECB/404142434445464748494a4b4c4d4e4f 1/2/DES-ECB/404142434445464748494a4b4c4d4e4f 1/3/DES-ECB/404142434445464748494a4b4c4d4e4f
+
+#Reset
+/atr
+
+#—°‘ÒISD
+select
+
+#Init update
+init-update 1
+
+#Exte Auth
+ext-auth
+
+#Load
+load -delete y -path 'E:\Test\Cap\test.cap'
+
+#Install
+install -efaid AABBCCDDEEFF -emaid 11223344556677 -appaid A00000000001 -delete y
+
+#delete aid
+delete -t aid -aid A00000000001
+
+#delete aid
+delete -t aid -aid AABBCCDDEEFF
+
+#delete key
+delete -t key -kcv 127 -kid 1

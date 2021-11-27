@@ -1,0 +1,28 @@
+#Set Key
+set-key 1/1/DES-ECB/404142434445464748494a4b4c4d4e4f 1/2/DES-ECB/404142434445464748494a4b4c4d4e4f 1/3/DES-ECB/404142434445464748494a4b4c4d4e4f
+
+#Reset
+/atr
+
+#—°‘ÒISD
+select
+
+#Init update
+init-update
+
+#Exte Auth
+ext-auth
+
+#Install
+install -efaid A0000001515350 -emaid A000000151535041 -appaid A00000000001 -isp 810202158201F08701F8830100 -iop EF05A003810101 -privilege 80C000 -delete y
+
+/SELECT A00000000001
+
+#Init update
+init-update
+
+#Exte Auth
+ext-auth
+
+
+
